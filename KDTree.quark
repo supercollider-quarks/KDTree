@@ -5,6 +5,6 @@
 	\author: 		"Dan Stowell",
 	\country: 		"UK",
 	\helpdoc:		"KDTree.html",
-	\dependencies: ["UnitTesting"],
+	\dependencies: [],
 	\since: 		"2007"
 )
